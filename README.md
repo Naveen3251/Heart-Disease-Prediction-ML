@@ -32,6 +32,7 @@ slope:the slope of the peak exercise ST segment<br>
 ca:number of major vessels (0-3) colored by flourosopy<br>
 thal: 0 = normal; 1 = fixed defect; 2 = reversable defect<br>
 
+THE IMAGE OF WEB APPLICATION FOR THIS MACHINE LEARNING MODEL IS ATTACHED
 
 
 
